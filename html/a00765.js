@@ -1,0 +1,27 @@
+var a00765 =
+[
+    [ "ADDR_ANYTYPE", "a02854.html#ga92ce7132921c9178253a9fdf9b8f7ff7", null ],
+    [ "ADDR_TENTATIVE", "a02854.html#gae64653a0bf71369f18219aa494e362d7", null ],
+    [ "UIP_DS6_DEFRT_NBS", "a02854.html#gaf2990c7f6e5b2f92c3eacfa87327eff6", null ],
+    [ "UIP_DS6_PERIOD", "a02854.html#ga5c6e60e65d8eb3b9f361c66fdd811467", null ],
+    [ "uip_ds6_aaddr_t", "a02854.html#ga0f5f6c796afcc32b7b2710656e4c0921", null ],
+    [ "uip_ds6_addr_t", "a02854.html#gaa7747195a6531ad47420ebc431e3bbb5", null ],
+    [ "uip_ds6_element_t", "a02854.html#ga8422a07709db2010efa3a905fef2e273", null ],
+    [ "uip_ds6_maddr_t", "a02854.html#ga0f99cf5a178c3941c75aefc98b5f2c5f", null ],
+    [ "uip_ds6_netif_t", "a02854.html#ga0c545d931f3af98c29632b754b58a59b", null ],
+    [ "uip_ds6_prefix_t", "a02854.html#gae901391c33125401849dd1038ceacf6e", null ],
+    [ "get_match_length", "a02854.html#ga1df687bf878d4a950e2925140e092314", null ],
+    [ "uip_ds6_addr_add", "a02854.html#ga481d1f551a1b6ea55cb20af10be455ec", null ],
+    [ "uip_ds6_compute_reachable_time", "a02854.html#gaf1869699613f79ff68e89163893e883a", null ],
+    [ "uip_ds6_dad", "a02854.html#ga46cf9b0c9ef05f52dadc7e123747ff52", null ],
+    [ "uip_ds6_dad_failed", "a02854.html#ga9e3b28eea327b6b796c8ab2c4960e5f6", null ],
+    [ "uip_ds6_init", "a02854.html#ga5527d94e75153109f16a3fb59491a7bb", null ],
+    [ "uip_ds6_list_loop", "a02854.html#ga17ed1c6e9b462b8a40f2a369f952e9d6", null ],
+    [ "uip_ds6_periodic", "a02854.html#ga31e021a78c1ef4ff237b9608e5659fb5", null ],
+    [ "uip_ds6_select_src", "a02854.html#gab4be25c579b63df6ce5b3a0d8b067b27", null ],
+    [ "uip_ds6_send_rs", "a02854.html#ga58caaf04f99927a91072308e7f388b12", null ],
+    [ "uip_ds6_set_addr_iid", "a02854.html#gabbe961bbeaea80289fddf448a542fea9", null ],
+    [ "uip_ds6_if", "a02854.html#gaecc8ec9970a01951fd9eec36e07884ef", null ],
+    [ "uip_ds6_timer_periodic", "a02854.html#ga696e1e79b3f1fe8c9d8ad8e7e4c03b4a", null ],
+    [ "uip_ds6_timer_rs", "a02854.html#gaa8b6989369c7e535e8480d4e28c39633", null ]
+];

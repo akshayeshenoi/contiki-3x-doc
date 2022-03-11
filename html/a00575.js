@@ -1,0 +1,5 @@
+var a00575 =
+[
+    [ "BUTTON_SENSOR_VALUE_DURATION", "a02875.html#gab7459f3fac4d8409a6565f1b88f59269", null ],
+    [ "BUTTON_SENSOR_VALUE_STATE", "a02875.html#gaa623bb19dde0deb5605a8005738fc758", null ]
+];

@@ -1,0 +1,28 @@
+var a02344 =
+[
+    [ "BLS_CODE_ERASE_4K", "a02763.html#ga0df31bb344fd5e36f3fec8f69cb293ad", null ],
+    [ "BLS_CODE_ERASE_ALL", "a02763.html#ga53b0528989a74aa8768974d795216d2e", null ],
+    [ "BLS_CODE_MDID", "a02763.html#ga57bc3bedf4e302893bd0f3a0d9bfc4c7", null ],
+    [ "BLS_CODE_PD", "a02763.html#gaba5d74baed8c7f7e1b40b2d20921151f", null ],
+    [ "BLS_CODE_PROGRAM", "a02763.html#gaf7f385ddfac8c3665707b89f38d244ff", null ],
+    [ "BLS_CODE_READ", "a02763.html#ga9e63a8e9ef9e4f8c4a84a1a2ae11cf38", null ],
+    [ "BLS_CODE_READ_STATUS", "a02763.html#ga8da27214cc36cdfeded873f5ba902aee", null ],
+    [ "BLS_CODE_RPD", "a02763.html#ga570144c5b8e8ae19cddeb6f5ab008c96", null ],
+    [ "BLS_CODE_SECTOR_ERASE", "a02763.html#ga5e76eac84116b400c078055b9fc2e438", null ],
+    [ "BLS_CODE_WRITE_ENABLE", "a02763.html#gae53c2b498f5c1f90f4af03cbd009e387", null ],
+    [ "BLS_STATUS_BIT_BUSY", "a02763.html#ga72e273e3dc039e5cf33d6fd5f580c192", null ],
+    [ "deselect", "a02763.html#gac0eadae94de728461ccade9e03fafd8c", null ],
+    [ "ext_flash_close", "a02763.html#ga9f09f1e3a3f2519734e70076fca77cd6", null ],
+    [ "ext_flash_erase", "a02763.html#ga053f3b9d89b1c9a7a7bf63d70a4aa9a3", null ],
+    [ "ext_flash_init", "a02763.html#ga4f48175293a861303dcd6b87c67047f1", null ],
+    [ "ext_flash_open", "a02763.html#ga2ab4d7bcfc9539559a530b66f7838103", null ],
+    [ "ext_flash_read", "a02763.html#gac8d61bd2bb862592601ad397e57332b3", null ],
+    [ "ext_flash_test", "a02763.html#ga12be877277b7f17ac02f83866ef5ae54", null ],
+    [ "ext_flash_write", "a02763.html#gaa1cafe0ce68e0b6f42688cc2f9d19af7", null ],
+    [ "power_down", "a02763.html#ga3d5e4166008e00824dc4c924d948be8a", null ],
+    [ "power_standby", "a02763.html#ga2b22ae1ddbe1d693aaf6f6640712d0cb", null ],
+    [ "select_on_bus", "a02763.html#ga9a285fc2222081defbe3a867a18220d8", null ],
+    [ "verify_part", "a02763.html#gaf366069b6d7dcc0bebffa99583640a9e", null ],
+    [ "wait_ready", "a02763.html#gad01d732342bcfad629510d25b5e64370", null ],
+    [ "write_enable", "a02763.html#ga05f970893e060c7bed2a754b5571a258", null ]
+];

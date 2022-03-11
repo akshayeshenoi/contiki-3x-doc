@@ -1,0 +1,7 @@
+var a01449 =
+[
+    [ "ANA_REGS_IVCTRL_DAC_CURR_CTRL", "a02685.html#ga9697edcf2957e28885669e4bd2cf17a4", null ],
+    [ "ANA_REGS_IVCTRL_LODIV_BIAS_CTRL", "a02685.html#ga639af00d62ed751f64e8f29291bc7240", null ],
+    [ "ANA_REGS_IVCTRL_PA_BIAS_CTRL", "a02685.html#gae376906a91eafc4c55d6ea103d1aa5f0", null ],
+    [ "ANA_REGS_IVCTRL_TXMIX_DC_CTRL", "a02685.html#ga17e33f7d562de423a68ae07951cb5309", null ]
+];

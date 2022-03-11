@@ -1,0 +1,27 @@
+var a01877 =
+[
+    [ "PORTA_PIN", "a02725.html#ga27b541c1f900a25d980c902ee5a30721", null ],
+    [ "PORTB_PIN", "a02725.html#ga3d53d811ca29690c1c5c8b8adbc534ce", null ],
+    [ "PORTC_PIN", "a02725.html#ga9c6bfc2e884b3b9f46732f3990d4d6af", null ],
+    [ "PORTx_PIN", "a02725.html#ga311b8a8cc601e36dcb7ae3d3914419e9", null ],
+    [ "halCommonCalibratePads", "a02725.html#ga8d943bddd6a0281e18a40b002940e622", null ],
+    [ "halCommonCheckXtalBiasTrim", "a02725.html#ga35ddce6a5df4800dd1980735c59c6b2c", null ],
+    [ "halCommonDelayMilliseconds", "a02725.html#gacd0565c99bb9ee46edc1f85d3eabaac1", null ],
+    [ "halCommonGetRandom", "a02725.html#gadb94c6571babd7d76305a00a3f09a1f3", null ],
+    [ "halCommonSeedRandom", "a02725.html#gaabd83fa0cf1d06380682adbba4f859ac", null ],
+    [ "halGetWakeInfo", "a02725.html#gaf50489736443d2e60df9e19ba2b403ce", null ],
+    [ "halGpioConfig", "a02725.html#ga22dcb4f34e04bf24ef05274c017e06d7", null ],
+    [ "halGpioSet", "a02725.html#gabbb5042ee272899e07c6fef429230369", null ],
+    [ "halInternalCalibrateFastRc", "a02725.html#gad9b2f11a69544770078feaa71b6a3d0d", null ],
+    [ "halInternalCalibrateSlowRc", "a02725.html#ga4173faf01f05eb52ca815bec94193818", null ],
+    [ "halInternalIdleSleep", "a02725.html#gafd32b37fdc20677e9f65bfca3281b7ba", null ],
+    [ "halInternalResetWatchDog", "a02725.html#ga8a39a028776dc2065aa3f02c2a1fd1d6", null ],
+    [ "halInternalSearchForBiasTrim", "a02725.html#gaebd4d106a0a42931460824b959ac32ee", null ],
+    [ "halInternalSetRegTrim", "a02725.html#ga27b7b259d7a8129736034ac6bfb00142", null ],
+    [ "halInternalSleep", "a02725.html#ga07522d6e2cb2d9da06d648289519c4ea", null ],
+    [ "halInternalSwitchToXtal", "a02725.html#gae47dcfa6256c2dd58e2a451e6b1411c6", null ],
+    [ "halSleepForQsWithOptions", "a02725.html#ga747ef10d5ebd95bf6f91685ccd499150", null ],
+    [ "halSleepWithOptions", "a02725.html#gad5ccc8a76451403d069cd63691b98c24", null ],
+    [ "stMeasureVddFast", "a02725.html#gacccecc48a42aa964410d5ca13288b73f", null ],
+    [ "stMeasureVddSlow", "a02725.html#ga93d0995cce8de7a4ad3f9cf6aeff0615", null ]
+];
